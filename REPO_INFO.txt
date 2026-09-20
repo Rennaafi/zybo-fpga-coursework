@@ -1,0 +1,9 @@
+Repository name: zybo-fpga-coursework
+
+Description:
+Verilog/FPGA coursework on a Zybo Z7-10 (Zynq-7000) — 12 exercises from basic logic gates through FSMs, UART, and a mini RISC-V SoC, each with board constraints and testbenches.
+
+Suggested topics:
+fpga, verilog, zynq, zybo-z7, digilent, vivado, risc-v, fsm, digital-design, hardware
+
+Suggested visibility: Public
