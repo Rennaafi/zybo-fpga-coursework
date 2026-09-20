@@ -22,10 +22,14 @@ RTL exercises from a structured Verilog/FPGA training program, built and verifie
 
 ## Notes on curation
 
-A few exercises existed as two attempts (a first pass and a cleaned-up revision). Only the more complete/polished version is kept here to avoid duplicate, half-finished copies:
+<details>
+<summary>A few exercises existed as two attempts; only the more complete version is kept here (click to expand)</summary>
+
 - **Digital lock key** (chapter 9) keeps the standalone, better-commented revision over the earlier in-chapter draft.
 - **Clock divider & tick** (chapter 7) keeps the primary attempt over the "practice copy" redo.
 - A malformed duplicate (`basic gates.v`, invalid Verilog identifier with a space in the module name) was dropped in favor of the working `basic_gates.v`.
+
+</details>
 
 ## Toolchain
 
